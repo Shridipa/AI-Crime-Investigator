@@ -1,0 +1,6 @@
+{
+  "name": "AI Crime Scene Investigator",
+  "description": "An interactive detective thriller game combining procedural story generation with probabilistic Bayesian inference to solve crime mysteries.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
